@@ -1,13 +1,15 @@
 {
   "devDependencies": {
+    "@types/node": "^18.0.0",
+    "tslint": "^6.1.3",
     "typescript": "^4.7.3"
   },
   "name": "unique-sdk-demo",
   "version": "1.0.0",
-  "main": "test.mjs",
+  "main": "demo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node test.mjs"
+    "start": "node demo.js"
   },
   "author": "",
   "license": "ISC",
