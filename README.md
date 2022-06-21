@@ -2,8 +2,14 @@
 
 - nodejs version: 16.15.1
 - npm version: 8.11.0
-```bash
+
+command:
+```shell
+npm install
 npm start
+```
+
+```shell
 file:///opt/hyj/unique-network/unique-sdk-demo/node_modules/@unique-nft/sdk/types/index.js:1
 export { AnyJson, ISubmittableResult, SignerPayloadJSON, SignerPayloadRaw } from '@polkadot/types/types';
          ^^^^^^^
